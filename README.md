@@ -5,7 +5,7 @@
 **Objetivo:**  
 Permitir al usuario calificar diferentes bandas musicales del 1 al 10. A partir de sus puntuaciones, se analiza el estilo musical que más le gusta y se le presenta un ranking personalizado.
 
-## 2. 🚗 Sitio Codelap
+## 2. Sitio Codelap
 
 **Objetivo:**  
 Recrear paso a paso el ejemplo del codelab oficial de Google, donde se entrena un modelo de regresión para predecir **MPG (millas por galón)** usando como entrada la **potencia** de automóviles.
