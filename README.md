@@ -30,4 +30,4 @@ Se recomienda ejecutarlos con una extensión como:
 2. Abrí la carpeta del proyecto deseado:
 * Sitio Gustos musicales/
 * Sitio Codelap/
-3.Hacé clic derecho sobre index.html → "Open with Live Server" (o usá tu servidor local preferido).
+3. Hacé clic derecho sobre index.html → "Open with Live Server" (o usá tu servidor local preferido).
